@@ -20,6 +20,8 @@ Below you can find some of the articles I have written:
 - [5 tips for implementing an Internal Developer Portal in your company](https://blog.mia-platform.eu/en/5-tips-for-implementing-internal-developer-portal-in-your-company?utm_source=github&utm_medium=pm-profile)
 - [How a frictionless Developer Experience improves software development](https://blog.mia-platform.eu/en/how-a-frictionless-developer-experience-improves-software-development?utm_source=github&utm_medium=pm-profile)
 - [Creating an Asynchronous Ingestion Pattern Following Mia-Platform Fast Data Architecture](https://aws.amazon.com/it/blogs/apn/creating-an-asynchronous-ingestion-pattern-following-mia-platform-fast-data-architecture/) (co-author)
+- [Announcing kube-green in CNCF landscape](https://kube-green.dev/blog/cncf-landscape/)
+- [Announcing Rönd, a new open-source Security Enforcement over your APIs](https://blog.mia-platform.eu/en/announcing-rond-new-open-source-security-enforcement-over-your-apis?utm_source=github&utm_medium=pm-profile)
 
 ## Contact me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/paolo-e-m-martinoli/)](https://www.linkedin.com/in/paolo-e-m-martinoli/)
