@@ -22,5 +22,7 @@ Below you can find some of the articles I have written:
 - [Creating an Asynchronous Ingestion Pattern Following Mia-Platform Fast Data Architecture](https://aws.amazon.com/it/blogs/apn/creating-an-asynchronous-ingestion-pattern-following-mia-platform-fast-data-architecture/) (co-author)
 
 ## Contact me
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/paolo-e-m-martinoli/)](https://www.linkedin.com/in/paolo-e-m-martinoli/)
-[![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ugho16)](https://dev.to/ugho16)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/paolo-e-m-martinoli/)](https://www.linkedin.com/in/paolo-e-m-martinoli/)
+[![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=for-the-badge&logo=Dev.to&labelColor=black&color=black&link=https://dev.to/ugho16)](https://dev.to/ugho16)
+[![Twitter](https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&labelColor=blue&logoColor=white&color=blue&link=https://twitter.com/el_ugho)](https://twitter.com/el_ugho)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&labelColor=black&color=black&logoColor=white&link=https://github.com/ugho16)](https://github.com/ugho16)
