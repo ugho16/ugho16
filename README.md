@@ -1,6 +1,6 @@
 ## Hello there!
 
-I'm Paolo Martinoli, but most of my friends call me Ugo because - they say - I have the voice of someone called Ugo. I added an H to be sure I aws the only one with this name, and that's explain my weird username. :sweat_smile:
+I'm Paolo Martinoli, but most of my friends call me Ugo because - they say - I have the voice of someone called Ugo. I added an H to be sure I was the only one with this name, and that explains my weird username. :sweat_smile:
 
 Here's something more about me:
 
