@@ -25,8 +25,8 @@ Below you can find some of the articles I have written:
 - [Announcing kube-green in CNCF landscape](https://kube-green.dev/blog/cncf-landscape/)
 - [Announcing Rönd, a new open-source Security Enforcement over your APIs](https://mia-platform.eu/blog/rond-open-source-api-enforcement/?utm_source=github&utm_medium=pm-profile)
 - [Data Temperature and bucket storage: optimizing data storage costs](https://mia-platform.eu/blog/data-temperature-bucket-storage/?utm_source=github&utm_medium=pm-profile)
-- [Data Fabric Versus All: iPaaS – A Clash of Data Integration Paradigms](https://mia-platform.eu/blog/data-fabric-vs-ipaas/?utm_source=github&utm_medium=pm-profile)
-- [Data Fabric Versus All: ETL – The Integration Revolution](https://mia-platform.eu/blog/data-fabric-vs-etl-elt/?utm_source=github&utm_medium=pm-profile)
+- [Data Fabric Versus All: iPaaS – A Clash of Data Integration Paradigms](https://mia-platform.eu/blog/data-fabric-vs-ipaas/?utm_source=github&utm_medium=pm-profile) (co-author)
+- [Data Fabric Versus All: ETL – The Integration Revolution](https://mia-platform.eu/blog/data-fabric-vs-etl-elt/?utm_source=github&utm_medium=pm-profile) (co-author)
 
 ## Contact me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/paolo-e-m-martinoli/)](https://www.linkedin.com/in/paolo-e-m-martinoli/)
