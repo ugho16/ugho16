@@ -11,7 +11,7 @@ Here's something more about me:
 
 ## What I do
 
-I am a Technical Writer based in Milan :it:, and I am currently working at [Mia-Platform](https://github.com/mia-platform). I am also a reviewer of the Italian localization team of the [CNCF Glossary](https://github.com/cncf/glossary), and I am part of the team of [Rönd](https://github.com/rond-authz). 
+I am a Technical Writer based in Milan :it:, and I am currently working at [Worldline](https://github.com/worldline) as a Documentation Specialist. I am also a reviewer of the Italian localization team of the [CNCF Glossary](https://github.com/cncf/glossary).
 
 Here you can find a [video](https://www.youtube.com/live/xK0dQI1gqoE?feature=share) (in :it:) where I explain how to contribute to CNCF Glossary!
 
