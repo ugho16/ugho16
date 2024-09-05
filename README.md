@@ -11,7 +11,7 @@ Here's something more about me:
 
 ## What I do
 
-I am a Technical Writer based in Milan :it:, and I am currently working at [Worldline](https://github.com/worldline) as a Documentation Specialist. I am also a reviewer of the Italian localization team of the [CNCF Glossary](https://github.com/cncf/glossary).
+I am a Technical Writer based in Milan :it:, and I am currently working at [Worldline](https://github.com/worldline) as a Documentation Specialist. I am also a reviewer of the Italian localization team of the [CNCF Glossary](https://github.com/cncf/glossary) and an ambassador of [Il libro open source](https://github.com/Il-Libro-Open-Source), an open source book written (in :it:) by the community for the community.
 
 Here you can find a [video](https://www.youtube.com/live/xK0dQI1gqoE?feature=share) (in :it:) where I explain how to contribute to CNCF Glossary!
 
